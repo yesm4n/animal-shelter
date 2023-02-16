@@ -1,0 +1,71 @@
+body {
+  background-color: #ffc93c;
+  font-family: "Ubuntu", sans-serif;
+  margin: 0 15px;
+  text-align: center;
+  width: 100%;
+  line-height: 1.7;
+}
+
+h1 {
+  color: #0081c9;
+  margin-top: 0;
+  font-size: 5rem;
+}
+
+h2 {
+  color: #5bc0f8;
+  font-size: 2rem;
+  font-weight: normal;
+  line-height: 2;
+}
+h3 {
+  color: #5bc0f8;
+  font-size: 2rem;
+  font-weight: normal;
+}
+
+hr {
+  color: red;
+  border-width: 6px;
+  border-style: dotted;
+  border-bottom: 0;
+  width: 3%;
+  margin: 30px auto;
+}
+
+.top-div {
+  width: 100%;
+}
+.top-container {
+  width: 50%;
+  margin: auto;
+}
+
+.middle-container {
+  margin: auto;
+  width: 35%;
+}
+
+.bottom-container {
+  margin: auto;
+  width: 30%;
+}
+
+.cat {
+  width: 150px;
+  height: 150px;
+  position: relative;
+  left: 200px;
+  top: 40px;
+}
+
+.dog {
+  width: 300px;
+  height: 300px;
+}
+
+.btn {
+  margin: 10px;
+}
+/* https://colorhunt.co/palette/fffbf5f7efe5c3acd0674188 */
